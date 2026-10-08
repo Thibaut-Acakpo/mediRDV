@@ -1,0 +1,3 @@
+storage/mails/*
+!storage/mails/.gitkeep
+storage/last_reminder.txt
